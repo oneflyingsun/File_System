@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(40): warning C4101: “ino”: 未引用的局部变量
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(158): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(329): warning C4018: “<”: 有符号/无符号不匹配
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(333): warning C4018: “<”: 有符号/无符号不匹配
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(378): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(395): warning C4018: “<”: 有符号/无符号不匹配
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(928): warning C4018: “<”: 有符号/无符号不匹配
+f:\我的文档\visual studio 2017\projects\file_system\file_system\filesystem.h(481): warning C4715: “cd”: 不是所有的控件路径都返回值
+  file_system.vcxproj -> f:\我的文档\Visual Studio 2017\Projects\file_system\Debug\file_system.exe
